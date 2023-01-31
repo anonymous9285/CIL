@@ -1,0 +1,3 @@
+# ninja log v5
+0	10931	1642457098962032931	/workspace/ReDet-master3090/mmdet/ops/sigmoid_focal_loss/build/temp.linux-x86_64-3.8/src/sigmoid_focal_loss_cuda.o	72014e6e13034786
+0	18245	1642457106278008224	/workspace/ReDet-master3090/mmdet/ops/sigmoid_focal_loss/build/temp.linux-x86_64-3.8/src/sigmoid_focal_loss.o	17c6df9e3955ad6a

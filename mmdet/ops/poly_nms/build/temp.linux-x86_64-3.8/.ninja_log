@@ -1,0 +1,3 @@
+# ninja log v5
+1	10475	1642457140725894169	/workspace/ReDet-master3090/mmdet/ops/poly_nms/build/temp.linux-x86_64-3.8/src/poly_nms_kernel.o	c0ecc55c1821dd3b
+0	17724	1642457147973870634	/workspace/ReDet-master3090/mmdet/ops/poly_nms/build/temp.linux-x86_64-3.8/src/poly_nms_cuda.o	9b8c7979ae8b5dde

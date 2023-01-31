@@ -1,0 +1,5 @@
+# ninja log v5
+0	11909	1642457058014174521	/workspace/ReDet-master3090/mmdet/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda_kernel.o	e6937e9c88846b24
+0	20853	1642457066962143089	/workspace/ReDet-master3090/mmdet/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda.o	c8e48af6bd5920c1
+0	11010	1642457078510102936	/workspace/ReDet-master3090/mmdet/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_pool_cuda_kernel.o	6f00a39acf0518f1
+0	18348	1642457085846077665	/workspace/ReDet-master3090/mmdet/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_pool_cuda.o	db5d22622eec144e

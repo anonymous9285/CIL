@@ -1,0 +1,3 @@
+# ninja log v5
+0	10528	1642456933082645380	/workspace/ReDet-master3090/mmdet/ops/roi_pool/build/temp.linux-x86_64-3.8/src/roi_pool_kernel.o	d0f2bff81f383ffe
+0	18915	1642456941470611736	/workspace/ReDet-master3090/mmdet/ops/roi_pool/build/temp.linux-x86_64-3.8/src/roi_pool_cuda.o	21aa075bc8c4ea2b

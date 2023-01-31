@@ -1,0 +1,3 @@
+# ninja log v5
+0	11473	1642456955114557678	/workspace/ReDet-master3090/mmdet/ops/roi_align_rotated/build/temp.linux-x86_64-3.8/src/roi_align_rotated_kernel.o	6cd819306f6c88ed
+0	18444	1642456962086530367	/workspace/ReDet-master3090/mmdet/ops/roi_align_rotated/build/temp.linux-x86_64-3.8/src/roi_align_rotated_cuda.o	8626e287f23311cc

@@ -1,0 +1,8 @@
+setup.py
+nms_cuda.egg-info/PKG-INFO
+nms_cuda.egg-info/SOURCES.txt
+nms_cuda.egg-info/dependency_links.txt
+nms_cuda.egg-info/top_level.txt
+src/nms_cpu.cpp
+src/nms_cuda.cpp
+src/nms_kernel.cu

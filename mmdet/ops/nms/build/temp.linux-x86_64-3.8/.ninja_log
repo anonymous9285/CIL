@@ -1,0 +1,4 @@
+# ninja log v5
+0	10251	1642457016838322894	/workspace/ReDet-master3090/mmdet/ops/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	bbfbee01a1f19080
+0	18580	1642457025170292361	/workspace/ReDet-master3090/mmdet/ops/nms/build/temp.linux-x86_64-3.8/src/nms_cuda.o	f13584f3568bf2b4
+0	18164	1642457043890224713	/workspace/ReDet-master3090/mmdet/ops/nms/build/temp.linux-x86_64-3.8/src/nms_cpu.o	f0680142744073e6

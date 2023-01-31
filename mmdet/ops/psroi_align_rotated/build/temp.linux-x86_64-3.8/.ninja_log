@@ -1,0 +1,3 @@
+# ninja log v5
+0	11075	1642456996090400092	/workspace/ReDet-master3090/mmdet/ops/psroi_align_rotated/build/temp.linux-x86_64-3.8/src/psroi_align_rotated_kernel.o	20e68a41a17cb9ab
+0	19091	1642457004106370065	/workspace/ReDet-master3090/mmdet/ops/psroi_align_rotated/build/temp.linux-x86_64-3.8/src/psroi_align_rotated_cuda.o	72253a217d9552d9

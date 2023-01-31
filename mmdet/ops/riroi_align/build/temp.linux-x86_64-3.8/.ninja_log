@@ -1,0 +1,3 @@
+# ninja log v5
+0	11002	1642456975210479518	/workspace/ReDet-master3090/mmdet/ops/riroi_align/build/temp.linux-x86_64-3.8/src/riroi_align_kernel.o	4c8dfa0eeafe001a
+0	18548	1642456982758450601	/workspace/ReDet-master3090/mmdet/ops/riroi_align/build/temp.linux-x86_64-3.8/src/riroi_align_cuda.o	c2327eeb4bae831
